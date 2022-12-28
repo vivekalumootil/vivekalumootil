@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vivekalumootil
-- 👀 I’m interested in machine learning and cybersecurity
-- 🌱 I’m currently learning Go
+- 👀 I’m interested in machine learning, cybersecurity and video game development
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on anything really
 - 📫 Email me at vivekalumootil@gmail.com
 
