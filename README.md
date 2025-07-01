@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @vivekalumootil
-- 👀 I’m interested in machine learning, cybersecurity and video game development
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on anything really
+- 👀 I’m interested in computer vision
 - 📫 Email me at vivekalumootil@gmail.com
 
 <!---
